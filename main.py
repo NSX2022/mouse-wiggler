@@ -3,7 +3,7 @@ import pyautogui
 
 screen_width, screen_height = pyautogui.size()
 
-#10% from each edge
+#15-30% from each edge
 margin_x = int(screen_width * 0.15)
 margin_y = int(screen_height * 0.3)
 
